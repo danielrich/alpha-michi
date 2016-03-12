@@ -3,8 +3,9 @@ Alpha Michi --- Minimalistic Go MCTS Engine with hueristics based off a neural n
 
 So this is partially based on the simple michi go program
 and partially attempted to go down the road that alphago went do. I don't have the resources or time
-that google had so I am aiming at a simple reproduction that I am hoping could be a high dan
-level player on very modest hardware resources.
+that google had so I am aiming at a simple reproduction that I am hoping could be a dan
+level player on very modest hardware resources. In particular I want to aim at
+being an good automated game review that I can use for improvement on my own games
 
 Currently the project is mostly just michi but working on getting things revamped to use a proper neural network.
 
