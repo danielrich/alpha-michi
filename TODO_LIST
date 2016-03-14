@@ -1,0 +1,17 @@
+I want to try and get a basic keras network up and running that can predict the next move.
+Get that sucker training. Once I have it up and starting to work I may try and scale it up
+using some aws GPU resources.
+
+1. Parse SGF files to be able to produce a training set for the network. Output game state
+matrix and the actual next move value.
+2. Basic network that can take in the a game state and output an probability distribution
+3. Play with several different archictecture of network.
+4. Try it with an attempt to reproduce the alphago network.
+5. See if I can talk with the online-go folks about getting the ability to play
+test a bot so I can get some strength information.
+6. Hoping I can get the simple network that just runs locally to a rough strength level.
+7. Maybe experiment to see if I can collapse that complicated network into a more simplified
+one. So that I could run with less resources.
+8. Begin working on developing a advancded self-play policy network to eventually make the value network.
+
+
