@@ -1,0 +1,3 @@
+The gogod database is self explanatory.
+
+The kgs games come from http://www.u-go.net/gamerecords/
