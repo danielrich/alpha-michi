@@ -17,4 +17,3 @@ This will come in several phases.
 component. The MCTS will mostly be used in trying to improve the value network since on modest HW MCTS can get expensive so a single evaluation of the value network will
 hopefully provide most of the strength increases.
 
-
